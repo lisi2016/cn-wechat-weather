@@ -1,4 +1,6 @@
 .title {
+  font-size: 200rpx;
   margin-top:300rpx;
   text-align:center;
+  line-height: 50rpx;
 }
